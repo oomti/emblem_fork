@@ -4,6 +4,10 @@ Emblem Giving is a sample application intended to demonstrate a complex, end-to-
 
 > This sample application is for learning purposes only. Real financial transactions are not made. The giving campaigns in the app are not real.
 
+> This is a fork of the emblem giving sample application for the purposes of testing deployment and setting up a CI/CD environment
+
+> You find an implementation log in the docs folder(folder name to be decided)
+
 ## Features
 
 This project features:
