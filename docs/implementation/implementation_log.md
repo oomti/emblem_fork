@@ -56,4 +56,15 @@ Exited [1] at line 129 setup.sh:
 
 Reattempting
 
+Error came up again.
+
+Run manually, 
+line 129 : OK
+line 128 : Meeting the same error with service account
+
+Destroying Implementation with cleanup.sh
+
+Cleanup throws error as website is not existent.
+
+Destroying all projects and creating a new one.
 
