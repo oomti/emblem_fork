@@ -68,3 +68,12 @@ Cleanup throws error as website is not existent.
 
 Destroying all projects and creating a new one.
 
+### Starting with the tutorial walkthrough
+
+> export PREFIX=$(gcloud config get-value account | cut -f1 -d"@")-emblem 
+
+There will be a problem if user name has "." in it. Project name can only have ASCII letters, number, hyphen, underline. 
+
+Limited by billable projects quota, need to increase number of projects.
+ 
+
